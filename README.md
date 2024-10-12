@@ -26,20 +26,7 @@ Ensure the literature-prizes.txt file is located in the project's root folder.
 Build and run the project.
 
 Usage
-Upon running the program, you will be presented with a menu:
-
-
-----------------------
-Literature prize menu
-----------------------
-List ................1
-Select ..............2
-Search ..............3
-Exit.................0
-----------------------
-Enter choice >
-
-
+Upon running the program, you will be presented with a menu.
 
 Choose option 1 to list prize winners for a specific year range.
 Choose option 2 to view detailed information about prize winners for a specific year.
