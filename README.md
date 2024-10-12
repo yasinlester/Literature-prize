@@ -28,6 +28,17 @@ Build and run the project.
 Usage
 Upon running the program, you will be presented with a menu:
 
+----------------------
+Literature prize menu
+----------------------
+List ................1
+Select ..............2
+Search ..............3
+Exit.................0
+----------------------
+Enter choice >
+
+
 Choose option 1 to list prize winners for a specific year range.
 Choose option 2 to view detailed information about prize winners for a specific year.
 Choose option 3 to search for laureates by writing genre.
