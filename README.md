@@ -28,6 +28,7 @@ Build and run the project.
 Usage
 Upon running the program, you will be presented with a menu:
 
+
 ----------------------
 Literature prize menu
 ----------------------
@@ -37,6 +38,7 @@ Search ..............3
 Exit.................0
 ----------------------
 Enter choice >
+
 
 
 Choose option 1 to list prize winners for a specific year range.
